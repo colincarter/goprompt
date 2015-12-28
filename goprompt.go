@@ -6,7 +6,7 @@ import (
 
 	"bytes"
 
-	"bitbucket.org/colincarter/goprompt/vcs"
+	"github.com/colincarter/goprompt/vcs"
 )
 
 type vcsParts struct {
